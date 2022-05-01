@@ -1,4 +1,5 @@
 <?php
+error_reporting(-1);
 include('./includes/config.inc.php');
 
 $keres = $oldalak['/'];
